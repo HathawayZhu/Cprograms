@@ -1,6 +1,8 @@
 //  Created by Huawei Zhu on 2018-09-21.
 //  Copyright © 2018 Huawei Zhu. All rights reserved.
-//  Write a program to compute the sum of all numbers that are multiples of 4, between 30 and 1000, in three different ways: with a for loop, a while loop and a do-while loop. After each loop print the value on the screen. Write a comment before each loop.
+//  Write a program to compute the sum of all numbers that are multiples of 4, between 30 and 1000, 
+//  in three different ways: with a for loop, a while loop and a do-while loop. 
+//  After each loop print the value on the screen. Write a comment before each loop.
 
 #include <stdio.h>
 #include <stdlib.h>
