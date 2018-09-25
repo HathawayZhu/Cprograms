@@ -1,6 +1,9 @@
 //  Created by Huawei Zhu on 2018-09-21.
 //  Copyright © 2018 Huawei Zhu. All rights reserved.
-//  Write a program which prompts the user to input a positive number and then it prints it. Your program has to check that the input is positive and if it is not, it has to keep asking for a valid input until one is provided. You may assume that the input is indeed an integer number.
+//  Write a program which prompts the user to input a positive number and then it prints it. 
+//  Your program has to check that the input is positive and if it is not, 
+//  it has to keep asking for a valid input until one is provided. 
+//  You may assume that the input is indeed an integer number.
 #include <stdio.h>
 #include <stdlib.h>
 
