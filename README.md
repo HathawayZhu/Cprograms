@@ -21,6 +21,7 @@ Practice set 1: use from the C standard library only functions for input and out
 a)***** b)  *   c)***** d)***
   *****    ***    ***      *
   *****   *****   *       ***
+  
   For each shape the number of lines should be n, where n has to be an odd integer between 1 and 25, inclusive. The program should prompt the user to input such an integer, check if this requirement is satisfied, and if it is not satisfied insist until the user inputs a correct integer. You may assume that the input is an integer number.
   
 10. Write a program that request the user to input a positive digit and then prints the number of digits in the input. For instance, if the input is 609, your program should print the message:“Your number has 3 digits”.
